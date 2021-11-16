@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/sawasavx" target="blank"><img src="https://img.shields.io/twitter/follow/sawasavx?logo=twitter&style=for-the-badge" alt="sawasavx" /></a> </p>
 
-- 🔭 I’m currently working on [N I S A](github.com/xzendercage/nisa)
+- 🔭 I’m currently working on [N I S A](https://github.com/xzendercage/nisa)
 
 - 🌱 I’m currently learning **AWAE and KLCP**
 
-- 👯 I’m looking to collaborate on [N I S A](github.com/xzendercage/nisa)
+- 👯 I’m looking to collaborate on [N I S A](https://github.com/xzendercage/nisa)
 
-- 👨‍💻 All of my projects are available at [github.com/xzendercage/](github.com/xzendercage/)
+- 👨‍💻 All of my projects are available at [https://github.com/xzendercage/](https://github.com/xzendercage/)
 
 - 💬 Ask me about **Ethical Hacking**
 
