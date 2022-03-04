@@ -2,7 +2,8 @@
 <h3 align="center">A developer from India</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=xzendercage&label=Profile%20views&color=b60e21&style=flat" alt="xzendercage" /> </p>
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/gbraad)
+<br>
+<a href="https://www.buymeacoffee.com/okevil" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xzendercage" alt="xzendercage" /></a> </p>
