@@ -4,7 +4,7 @@
   
 
 ### <div align="center">I'm Xzender Cage㋛, a Cyber Security Expert and developer 👨‍💻 🚀</div>  
-🔭 I’m currently working on BASTET USERAI OS<br><br>🌱 I’m currently learning Data Science<br><br>❓ Ask me about anything related to OSCP<br><br>⚡ Yea Baby I'm Lost
+🔭 I’m currently working on BASTET USERAI <br><br>🌱 I’m currently learning Data Science<br><br>❓ Ask me about anything related to OSCP<br><br>⚡ Yea Baby I'm Lost
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/xzender_cage) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/sawasaly) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sawasavx) 
