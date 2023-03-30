@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://snyk.io/wp-content/uploads/Blog-iac-header-1.jpg" align="center" style="width: 100%" />
+<img src="https://telegra.ph/file/c51587e81eab25d21b623.png" align="center" style="width: 100%" />
 </div>  
   
 
